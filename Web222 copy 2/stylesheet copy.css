@@ -1,0 +1,174 @@
+.heading{
+	font-size: 2000px;
+	color: red;
+	
+}
+
+
+
+/*this is the old Code info*/
+/*
+.head{
+	color: red;
+	text-align: center;
+	font-size: 500%;
+	background-color: yellow;
+}
+
+.menue-bar{
+	padding: 1%;
+	align-content: center;
+	padding-left: .5%;
+	padding-right: .5%
+	color: green;
+	font-size: 150%;
+
+}
+.nav-bar{
+	display: flex;
+	margin-right: 10px; 
+	padding-left: 10px;
+	list-style: none;
+   
+}
+.space{
+	padding: 1%;
+	align-content: center;
+	padding-left: 22.5%;
+	color: green;
+	font-size: 150%;
+	
+
+}
+*/
+/*
+.list-item-nav{
+	padding: 1%;
+	align-content: center;
+	padding-left: .5%;
+	padding-right: .5%
+	color: green;
+	font-size: 150%;
+	
+}
+.nav-bar{
+	font-size: 20%;
+	display: flex;
+	margin-right: 10px; 
+	padding-left: 10px;
+	list-style: none;
+		
+}
+
+.header{
+	color: red;
+	padding-left: 5%;
+	font-family: fantasy;
+*/
+/*
+	top: 0;
+	
+*/
+/* this is the content from the footer, which I want for the header so that it will float..
+	color: aqua;
+	background-color: red;
+	text-align: left;
+	height: 80px;
+	position: sticky;
+	bottom: 0;
+	padding-bottom: 0%;
+	padding-top: 2%
+	
+*/
+
+
+}
+/*
+.grid-container{
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	padding-left: 2%;
+	padding-right: 2%;
+		
+}
+.individual-link{
+	padding-top: 50px;
+	padding-bottom: 50px; 
+	padding-left: 5px;
+	padding-right: 5px; 
+	font-size: 200%;
+	font-style: italic;
+	color: red;
+	background-color: greenyellow;
+	margin: 10px;
+	text-align: center;	
+}
+.link-text{
+	color: red;
+	text-decoration: none;
+}
+*/
+
+/*
+.context{
+	padding-top: 1%;
+	padding-left: 16%;
+	padding-right: 16%;
+	font-family: sans-serif;
+	color: black;
+	text-align: left;
+	
+	
+	
+	
+}
+
+.image{
+	max-width: 100%; 
+    max-height: 100%;
+	margin-left: 45%;
+	
+}
+
+*/
+
+/*
+.heading{
+	color: black;
+	font-size: 50px;
+	padding-left: 16%;
+	padding-bottom: 10%;
+	padding-right: 71.8%;
+	text-decoration: underline;
+	font-family: sans-serif;
+	font-style: initial;
+}
+.contents{
+	
+    align-items: flex-start;
+}
+
+.sub-heading{
+	padding-left: 16%;
+	color: black;
+	font-size: 150%;
+	text-decoration: underline;
+	
+	
+	
+}
+ .footer{
+	color: aqua;
+	background-color: red;
+	text-align: left;
+	height: 40px;
+	position: sticky;
+	bottom: 0;
+	padding-bottom: 0%;
+	padding-top: 2%;
+}
+.list-item-nav{
+	padding: 0;
+	background-color: red; 
+}
+*/

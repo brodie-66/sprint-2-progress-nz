@@ -1,0 +1,692 @@
+.heading{
+	color: blue;
+	align-content: center;
+	background-color: yellow;
+	padding-left: 45%;
+	font-size: 50px;
+	
+}
+.nav-bar {
+
+  white-space: nowrap;
+  background-color: greenyellow;
+ 
+ 
+}
+
+.nav-bar-item {
+  display: inline-block;
+  margin-right: 10px;  
+  padding-left: 150px; 
+  padding-left: 10%; 
+  font-size: 25px; 
+  color: black;
+  text-decoration: none; 
+
+}
+
+/*-------------------------<Heading>----*/
+/*fixed*/
+
+.body{
+	background-color: pink; 
+}
+/*--------------------------<my.html----*/
+my.html 
+
+
+
+.options {
+  position: relative;
+  display: inline-block;
+	
+}
+
+.selection {
+  display: none;
+  position: absolute;
+  background-color: pink;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.selection a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+
+
+.options:hover .selection {
+  display: block;
+  background-color: greenyellow; 
+  font-size: 20px; 
+	
+}
+
+.select {
+	background-color: yellow;
+	border: 5px; 
+	padding: 10px;
+	cursor: pointer;
+	font-size: 25px; 
+	border-color: red; 
+	border: 2px; 
+	display: flex; 
+}
+.divisions-of-person{
+	color: black;
+	font-size: 20px; 
+	display: inline-block;
+	padding: 2%;
+	font-size: 30px; 
+	background-color:pink; 
+	padding-top: 5%; 
+	padding-left; 150%; 
+	padding-bottom: 5%; 
+	padding-right: 20%;
+	
+	
+}
+
+
+.divisions-of-person{
+	display: flex;
+
+}
+
+.options{
+	padding-right: 5%
+}
+
+.options:first-child{
+	margin-right: 2px; 
+	
+}
+.who{
+	color: black;
+	font-size: 20px; 
+	display: inline-block;
+	font-size: 30px; 
+	background-color: pink; 
+	padding-right: 20%;
+	display: flex; 
+	padding-left: 5%; 
+	padding-top: 2%; 
+    display: flex;
+    flex-wrap: wrap;
+
+	
+}
+--------------------------
+
+.title{
+	font-size: 20px; 
+}
+.title{
+	color: black; 
+	font-size: 30px; 
+	padding-left: 2%; 
+	text-decoration: underline; 
+}
+.paragraph{
+	font-size: 20px; 
+	padding-left: 5%; 
+	padding-right: 5%;
+	padding-bottom: 5%; 
+}
+.vid{
+	width: 50%; 
+	height: 25%; 
+	padding-left:  25%; 
+	padding-right: 25%; 
+}
+--------------------------
+.opening-message{
+	font-size: 15px; 
+	background-color: white; 
+}
+
+
+
+.message{
+	background-color: white; 
+	padding: .2%;
+
+
+
+}
+
+.input{
+	height: 20%; 
+	width: 70%; 
+	float: right; 
+}
+.text-box{
+	padding-left: 2%; 
+	padding-right: 2%;
+	padding-bottom: 2%;
+	padding-top: 2%; 
+	border-style: solid;
+	border-width: 2px; 
+	margin-top: 5%; 
+	background-color: aliceblue
+}
+.all{
+	display: inline-block;
+
+}
+.message-store{
+	color: blue;
+	padding-left: 2%;
+	padding-top: 1%; 
+	font-size: 15px; 
+	font-style: italic; 
+
+}
+
+.custom{
+	
+}
+
+/*------------------<footer>------*/
+.footer{
+	background-color: black: 
+
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #f8f8f8;
+  padding: 20px;
+	position: fixed; 
+}
+
+.footer-item{
+  display: inline-block;
+  margin-right: 10px;  
+  padding-left: 200px; 
+  font-size: 25px; 
+}
+
+
+.midle{
+	margin-left: 15%;
+}
+
+.specs{
+	
+	
+}
+
+/*dropdown custom begin*/
+.aoptions{
+	position: relative;
+	display: inline-block;
+}
+.aoptions:hover .aselection{
+	display: block;
+	background-color: azure;
+	font-size: 15px;
+}
+.aoptions{
+/*	padding-right: 5%;*/
+	
+}
+.aoptions:first-child{
+	margin-right: 2px;
+}
+.aselect{
+	background-color: yellow;
+	border: 5px;
+	padding: 10px;
+	cursor: pointer;
+	font-size: 15px;
+	border-color: red;
+	border: 2px;
+	display: flex;
+	margin-top: 10px; 
+	padding-top: 10px; 
+}
+
+.aselection{
+	display: none;
+	position: absolute;
+	background-color: pink;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 1;	
+}
+.aselection a{
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block; 
+}
+
+/*
+.customise-cap{
+	background-color: skyblue;
+	border: 5px; 
+	padding: 10px;
+	cursor: pointer;
+	font-size: 25px; 
+	border-style: solid;
+	border-color: red; 
+	border: 2px; 
+	display: flex; 
+}
+*/
+.describe{
+	margin-left: 100px;
+	
+}
+
+.custom-item{
+		background-color: skyblue;
+	border: 5px; 
+	padding: 10px;
+	cursor: pointer;
+	font-size: 25px; 
+	border-style: solid;
+	border-color: red; 
+	border: 2px; 
+	display: flex;
+}
+
+/*drop down custom end*/
+
+.shop-row-one{
+	display: inline-block;
+	font-size: 30px; 
+	margin-bottom: 1%;
+	margin-top: 1%;
+}
+.shop-row-two{
+	display: inline-block;
+
+}
+.shop-row-three{
+	display: inline-block;
+	margin-bottom: 2%;
+	margin-top: 1%;
+	margin-left: 2%;
+	
+	
+	
+}
+.item-name{
+	font-size: 30px; 
+	margin-left: 2%;
+	
+}
+.item-price{
+	text-align: right; 
+	padding-left: 5%;
+	text-decoration: underline;
+	align-content: right;
+}
+.item-description{
+	font-size: 30px; 
+	
+}
+
+.item-title{
+	padding-left: 2%;
+	text-decoration: underline;
+}
+.item-image{
+	margin-left: 6%;
+	height: 150px;
+	width: 150px;
+}
+.item-description{
+	margin-left: 2%;
+	font-size: 20px;
+	max-width: 200px;
+	
+}
+.italics{
+	font-style: italic;
+}
+.cart-button{
+	font-size: 20px;
+	height: 50px;
+	background-color: skyblue;
+	color: black;
+	font-style: normal;
+	border: none;
+}
+
+.shop-content{
+	margin-left: 5%;
+	margin-right: 10%;
+	margin-top: 5%; 
+	background-color: hotpink;
+	
+}
+
+
+.shop-grid{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+    grid-gap: 2px;
+	padding-bottom: 50%; 
+}
+
+.all{
+	display: inline-block; 
+	padding-left: 5px; 
+	padding-right: 5px;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-gap: 50%
+	
+	
+}
+.who{
+	padding-right: 6.5%;
+	padding-top: 70%;
+	padding-left: 2%
+}
+
+.someone-you-know{
+	display: block;
+}
+
+.text-box{
+	height: 50px; 
+}
+.input{
+	margin-top: 25px; 
+}
+
+.cart{
+	margin-bottom: 15%; 
+	display: flex;
+	
+	
+}
+.cart-immage{
+	height: 50%;
+}
+
+.class-head{
+	padding-top: 30px; 
+	padding-bottom: 30px; 
+	padding-right: 12%; 
+	background-color: red;
+	font-size: 35px; 
+	
+}
+.item{
+	padding-left: 2%; 
+}
+.description{
+	padding-left: 2%;
+	padding-right: 0; 
+}
+.pricec{
+	padding-left: 14%;
+	padding-right: 0; 
+}
+.quantity{
+	padding-left: 10%;
+	padding-right: 0;
+}
+
+.clear{
+	padding-left: 10%;
+	padding-right: 3%;
+	
+
+}
+
+.cart-button{
+	background-color: skyblue;
+	font-size: 35px; 
+}
+
+
+.cart-immage{
+	height: 40px; 
+}
+
+.cart-row{
+	padding: 30px; 
+	background-color: skyblue;
+	font-size: 35px; 
+}
+
+.name{
+	margin-left: 0%;
+	padding-left: 1%;
+}
+.pic{
+	padding-left: 4.5%;
+}
+.price{
+	
+	padding-left: 8.5%; 
+}
+
+
+-------------------------------
+/* Your existing CSS styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  position: relative;
+}
+
+header {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+  position: relative;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 10px;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+}
+
+/* New styles for the curved bottom border */
+.curve {
+  width: 100%;
+  height: 40px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: #f2f2f2;
+  border-top: 1px solid #ccc;
+  border-radius: 50%;
+}
+
+.wave-container {
+  position: absolute;
+  top: 100px;
+  left: 0;
+  width: 100%;
+  height: 150px;
+  overflow: hidden;
+  z-index: -1;
+}
+
+.wave {
+  background: #f2f2f2;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+}
+
+.wave::before,
+.wave::after {
+  content: "";
+  background: #f2f2f2;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+}
+
+.wave::before {
+  bottom: 30%;
+  animation: wave-animation 4s infinite linear;
+}
+
+.wave::after {
+  bottom: 10%;
+  animation: wave-animation 3s infinite linear;
+}
+
+@keyframes wave-animation {
+  from {
+    transform: translateX(0) translateZ(0) scaleY(1)
+  }
+  to {
+    transform: translateX(-100%) translateZ(0) scaleY(0.9)
+  }
+}
+
+main {
+  padding: 20px;
+  text-align: center;
+  flex: 1;
+}
+
+.title-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.cloud {
+  /* Cloud styles from the previous example */
+}
+
+h1 {
+  font-size: 48px;
+  color: #000;
+  margin: 0;
+  padding: 10px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-buttons {
+  margin-bottom: 20px;
+}
+
+.footer-buttons button {
+  padding: 10px 20px;
+  margin: 5px;
+  color: #fff;
+  background-color: #333;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.footer-buttons button:hover {
+  background-color: #444;
+}
+
+.title-image{
+	
+	height: 400px; 
+	margin-left: 30%; 
+/*	margin-top: 25%; */
+	margin-bottom: 25%; 
+}
+
+.content-image{
+	height: 400px; 
+	margin-left: 30%; 
+	margin-bottom: 25%; 
+}
+
+.left-top-pocket{
+	height: 400px;
+	width: 400px; 
+	margin-top: 15px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+	
+}
+
+.right-top-pocket{
+	height: 400px;
+	width: 400px; 
+	margin-top: 15px;
+	margin-left: 760px;
+	margin-bottom: 15px;
+}
+
+.top-row{
+	display: inline-block; 
+	display:  
+
+}
+
+
+
+.cart-all{
+	background-color: white; 
+}
+
+.cart-row{
+	background-color: red; 
+	height: 40px;
+	margin-bottom: 5%; 
+	padding: 10px; 
+/*	border-bottom-style: solid;*/
+	
+	
+}
+
+.removeButton{
+	background-color: skyblue;
+	height: 40px;
+	padding-top: 2px;
+	margin-top: 
+	
+	
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="my.css"> 
+<html> 
+	<head>
+		<div class="heading"> Progress NZ 
+		</div>
+		<div class="nav-bar"> 
+			<div class="nav-bar-item"> Chat </div> <div class="nav-bar-item"> Intervention Planner </div><div class="nav-bar-item">  <a href="store.html" class="nav-bar-item"> Charity Store </a> </div><div class="nav-bar-item"><a href="ai.html" class="nav-bar-item"> ai </a> </div><div class="nav-bar-item" > <a href="my.html" class="nav-bar-item"> Home</a></div>
+		
+		</div>
+	
+	</head>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<body>
+		<div>
+			<a class="title"> Store; </a>
+		<div class="message-store"> 
+			<a> This Store is non for profit and aimed at helping those with mental and physical issues in New Zealand. </a>
+		</div>
+		
+		
+		</div>
+		<div class="shop-grid">
+			<div class="shop-content">
+		
+
+			<div class="item-name shop-row-one"> Cap </div> 
+			<div class="item-price shop-row-one"> $900.00 </div>
+		<div class="item-title shop-row-one">  Description: </div>
+		<div>
+			<div class="shop-row-two"> <img class="item-image" src="cup.jpeg"> </div>
+			<div class="item-description shop-row-two"> Pristine fine-China tea cup </div>
+		
+		</div>
+		<div>
+			
+	               <div class="options shop-row-three"> 
+						<button class=" customise-cap"> Custom </button>
+						<div class="selection specs">
+							<a href="#" > 
+								<div class="aoptions" >
+									<button class="aselect"> Colour </button>
+									<div class="aselection"> 
+										<a href="#"> Red </a>
+										<a href="#"> Blue </a>
+										<a href="#"> Yellow </a>		
+									</div>
+								
+								</div>
+								
+								<div class="aoptions" >
+									<button class="aselect">Size </button>
+									<div class="aselection"> 
+										<a href="#"> Large </a>
+										<a href="#"> Medium </a>
+										<a href="#"> Small </a>
+									
+									</div>
+								
+								</div>
+								
+								<div class="aoptions" >
+									<button class="aselect"> Text Colour </button>
+									<div class="aselection"> 
+										<a href="#"> Black </a>
+										<a href="#"> Green </a>
+										<a href="#"> Gold </a>
+									
+									</div>
+								
+								</div>
+								
+								<div class="aoptions" >
+									<button class="aselect"> Text Sixe </button>
+									<div class="aselection"> 
+										<a href="#"> Large </a>
+										<a href="#"> Medium </a>
+										<a href="#"> Small </a>
+									
+									</div>
+								
+								</div>
+								
+								 </a>
+							
+						</div>
+
+					</div>
+			<div class="add-to-cart shop-row-three"> 
+			<button class="cart-button"> Add to Cart</button>
+			</div>
+		
+		</div>
+
+			
+	</div>
+			<div class="shop-content">
+		
+
+			<div class="item-name shop-row-one"> Therapy-boot </div> 
+			<div class="item-price shop-row-one"> $20.00 </div>
+		<div class="item-title shop-row-one">  Description: </div>
+		<div>
+			<div class="shop-row-two"> <img class="item-image" src="therapy-device.jpeg"> </div>
+			<div class="item-description shop-row-two"> Its a gumboot </div>
+		
+		</div>
+		<div>
+			
+	               <div class="options shop-row-three"> 
+						<button class=" customise-cap"> Custom </button>
+						<div class="selection specs">
+							<a href="#" > 
+								<div class="aoptions" >
+									<button class="aselect"> Colour </button>
+									<div class="aselection"> 
+										<a href="#"> Red </a>
+										<a href="#"> Blue </a>
+										<a href="#"> Yellow </a>		
+									</div>
+								
+								</div>
+								
+								<div class="aoptions" >
+									<button class="aselect">Size </button>
+									<div class="aselection"> 
+										<a href="#"> Large </a>
+										<a href="#"> Medium </a>
+										<a href="#"> Small </a>
+									
+									</div>
+								
+								</div>
+								
+								<div class="aoptions" >
+									<button class="aselect"> Text Colour </button>
+									<div class="aselection"> 
+										<a href="#"> Black </a>
+										<a href="#"> Green </a>
+										<a href="#"> Gold </a>
+									
+									</div>
+								
+								</div>
+								
+								<div class="aoptions" >
+									<button class="aselect"> Text Sixe </button>
+									<div class="aselection"> 
+										<a href="#"> Large </a>
+										<a href="#"> Medium </a>
+										<a href="#"> Small </a>
+									
+									</div>
+								
+								</div>
+								
+								 </a>
+							
+						</div>
+
+					</div>
+			<div class="add-to-cart shop-row-three"> 
+			<button class="cart-button"> Add to Cart</button>
+			</div>
+		
+		</div>
+
+			
+	</div>
+	<div class="shop-content">
+		
+
+			<div class="item-name shop-row-one"> Cap </div> 
+			<div class="item-price shop-row-one"> $10.00 </div>
+		<div class="item-title shop-row-one">  Description: </div>
+		<div>
+			<div class="shop-row-two"> <img class="item-image" src="cap.jpeg"> </div>
+			<div class="item-description shop-row-two">Blue cap with <a class="italics"> Progress NZ </a> in gold letters </div>
+		
+		</div>
+		<div>
+			
+	               <div class="options shop-row-three"> 
+						<button class=" customise-cap"> Custom </button>
+						<div class="selection specs">
+							<a href="#" > 
+								<div class="aoptions" >
+									<button class="aselect"> Colour </button>
+									<div class="aselection"> 
+										<a href="#"> Red </a>
+										<a href="#"> Blue </a>
+										<a href="#"> Yellow </a>		
+									</div>
+								
+								</div>
+								
+								<div class="aoptions" >
+									<button class="aselect">Size </button>
+									<div class="aselection"> 
+										<a href="#"> Large </a>
+										<a href="#"> Medium </a>
+										<a href="#"> Small </a>
+									
+									</div>
+								
+								</div>
+								
+								<div class="aoptions" >
+									<button class="aselect"> Text Colour </button>
+									<div class="aselection"> 
+										<a href="#"> Black </a>
+										<a href="#"> Green </a>
+										<a href="#"> Gold </a>
+									
+									</div>
+								
+								</div>
+								
+								<div class="aoptions" >
+									<button class="aselect"> Text Sixe </button>
+									<div class="aselection"> 
+										<a href="#"> Large </a>
+										<a href="#"> Medium </a>
+										<a href="#"> Small </a>
+									
+									</div>
+								
+								</div>
+								
+								 </a>
+							
+						</div>
+
+					</div>
+			<div class="add-to-cart shop-row-three"> 
+			<button class="cart-button"> Add to Cart</button>
+			</div>
+		
+		</div>
+
+			
+	</div>
+
+		
+		
+		</div>
+		
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</body>
+	
+	<footer>
+		<div class="footer">
+			<div class="footer-item"> Contact us </div> <div class="footer-item"> Dontae</div><div class="footer-item"> Follow us </div>
+		
+		</div>
+	</footer>
+
+</html>
